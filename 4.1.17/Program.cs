@@ -2,7 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
 	    Console.WriteLine("Напишите свой любимый цвет на английском с маленькой буквы");
 
 		var color = Console.ReadLine();
