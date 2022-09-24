@@ -7,7 +7,8 @@
         double x;
         double y;
 
-        bool z = (a < b) | (x > y);
+        //эта шляпа мешается
+        //bool z = (a < b) | (x > y);
 
     }
 }
